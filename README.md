@@ -17,11 +17,11 @@ So what have I covered:
 
 Gratuitous dog picture!
 
-[//]: # (### Markdown
+[//]: # (### Markdown)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[//]: #(Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for)
 
-```markdown
+[//]: #(```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -36,10 +36,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src))
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).)
+[//]: #(For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).)
 
 [//]: # (### Jekyll Themes)
 
@@ -47,7 +47,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Contact
 
-(p) 580.504.3458
-(e) jamie.hadwin@mac.com
+<p>(p) 580.504.3458</p>
+<p>(e) jamie.hadwin@mac.com</p>
 
 [//]: # (Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.)
