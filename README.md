@@ -4,7 +4,7 @@
 
 [//]: # (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
 
-<p>My name is Jamie, and I am a perpetual student, communications professional, social justice champion and lover of dogs!</p>
+[Image](http://www.centralconnection.org/s/1553/images/editor/alumni_pages/hadwin_jamie.jpg)<p>My name is Jamie, and I am a perpetual student, communications professional, social justice champion and lover of dogs!</p>
 <p>I am currently the Marketing Manager for the University of Central Oklahoma Development office, which means I get to work for both the UCO Foundation and the UCO Alumni Association. I recently completed my master's in mass communications, and I am now taking courses to get a certificate in Crime Victim/Survivor Services. I am interested in one day pursuing a law degree.</p>
 
 Prior to UCO, I was a program coordinator (with a heavy emphasis on communications and events) for the Oklahoma State University High Performance Computing Center. Before that, I worked in the OSU College of Arts & Sciences as a communications and event specialist. 
